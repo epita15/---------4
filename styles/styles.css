@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    padding: 30px;
+    background-color: #c4c4c4;
+    height: 150px;
+}
+header li{
+    float: left;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+header li a{
+    color: #000;
+    font-size: 18px;
+}
+.slider{
+    width: 100%;
+    height: 400px;
+    background-color: #3D3D3D;
+    overflow: hidden;
+}
+.slider img{
+    margin: 50px auto;
+    width: 100%;
+    margin-top: -250px;
+}
+.statiebi{
+padding-left: 60px; 
+
+}
+article{
+    width: 458px;
+    height: 348px;
+    background-color: #f90;
+    margin-top: 30px;
+    float: left;
+}
+.meore{
+    background-color: #FFC700;
+}
+.meore p{
+    background-color: #FFC700;
+}
+.mesame{
+    background-color: #ffe600;
+}
+.mesame p{
+    background-color: #ffe600;
+}
+.pirveli{
+    background-color: #f90;
+}
+.pirveli p{
+    background-color: #f90;
+}
+.statia1{
+    width: 100%;
+}
+.statia1 img{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+h2{
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+p{
+    padding-top: 15px;
+    padding-left: 10px;
+    font-size: 12px;
+    
+}
+p a{
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: #000;
+    
+}
+.bolo {
+    clear: both;
+    padding: 60px;
+}
+ 
+/* ------სიახლე 1 styles------ */
+
+
+.siaxle1 article{
+    width: 1370px;
+    height: 742px;
+    margin: 30px 70px 30px 70px;
+    background-color: #ff9900;
+}
+.siaxle1 h2{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 10px;
+}
+.siaxle1 div{
+    width: 456px;
+    height: 200px;
+    float: left;
+    overflow: hidden;
+}
+.siaxle1 img{
+    width: 100%;
+
+}
+.siaxle1 p{
+    clear: both;
+    font-size: 14px;
+    padding-top: 40px; 
+}
+.siaxle1 a{
+    margin-left: 70px;
+}
+
+
+/* -----სიახლე 2 styles------- */
+
+.siaxle2 article{
+    width: 1370px;
+    height: 742px;
+    margin: 30px 70px 30px 70px;
+    background-color: #FFC700;
+}
+.siaxle2 h2{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 10px;
+}
+.siaxle2 div{
+    width: 456px;
+    height: 200px;
+    float: left;
+    overflow: hidden;
+}
+.siaxle2 img{
+    width: 100%;
+
+}
+.siaxle2 p{
+    clear: both;
+    font-size: 14px;
+    padding-top: 40px; 
+}
+.siaxle2 a{
+    margin-left: 70px;
+}
+
+
+/* -----სიახლე 3 styles----- */
+
+.siaxle3 article{
+    width: 1370px;
+    height: 742px;
+    margin: 30px 70px 30px 70px;
+    background-color: #ffe600;
+}
+.siaxle3 h2{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 10px;
+}
+.siaxle3 div{
+    width: 456px;
+    height: 200px;
+    float: left;
+    overflow: hidden;
+}
+.siaxle3 img{
+    width: 100%;
+
+}
+.siaxle3 p{
+    clear: both;
+    font-size: 14px;
+    padding-top: 40px; 
+}
+.siaxle3 a{
+    margin-left: 70px;
+}
